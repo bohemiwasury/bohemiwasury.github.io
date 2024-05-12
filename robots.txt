@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohemiwasury.github.io/sitemap.xml
